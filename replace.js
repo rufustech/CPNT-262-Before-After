@@ -2,7 +2,7 @@
 
 let toBeReplaced = "I will be Different";
 
-console.log(toBeReplaced);
+console.log("Before Sting: " + toBeReplaced);
 
 //Running .replace to change the value in variable
 
@@ -10,4 +10,4 @@ toBeReplaced = toBeReplaced.replace(
   "I will be Different",
   "I am new Now, Born Again Hahahaha"
 );
-console.log(toBeReplaced);
+console.log("After string: " + toBeReplaced);

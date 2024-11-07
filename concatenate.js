@@ -2,12 +2,12 @@
 
 //Two string to join
 let firstWord = "Happy";
-let secondWord = "Trump";
+let secondWord = "Class";
 
-console.log(firstWord);
-console.log(secondWord);
+console.log("Before Concat: " + firstWord);
+console.log("Before Concat: " + secondWord);
 
 //Joining the two words using concat()
 let thirdWord = firstWord.concat(" ", secondWord);
 
-console.log(thirdWord);
+console.log("After concat: " + thirdWord);
