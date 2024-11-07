@@ -1,8 +1,8 @@
 //Concatenate: You can join two or more strings together using methods or operators.
 
 //Two string to join
-let firstWord = "happy";
-let secondWord = "Class";
+let firstWord = "Happy";
+let secondWord = "Trump";
 
 console.log(firstWord);
 console.log(secondWord);

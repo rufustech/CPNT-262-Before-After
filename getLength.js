@@ -1,10 +1,10 @@
 //Get Length: Strings have a property that tells you how many characters they contain.
 
-let longWord = "i Love Music Very Much";
-console.log(longWord);
+let longString = "i Love Music Very Much";
+console.log(longString);
 
 //get lenght of word
 
-longWord = longWord.length;
+longString = longString.length;
 
-console.log(longWord);
+console.log(longString);
